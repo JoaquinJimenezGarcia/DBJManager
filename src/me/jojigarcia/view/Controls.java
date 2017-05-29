@@ -3,7 +3,6 @@ package me.jojigarcia.view;
 import me.jojigarcia.model.Email;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
