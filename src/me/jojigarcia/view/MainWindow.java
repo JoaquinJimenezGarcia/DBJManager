@@ -8,7 +8,7 @@ import javax.swing.*;
 public class MainWindow extends JFrame{
 
     public MainWindow(){
-        setTitle("Validate Email App");
+        setTitle("DBJManager");
         setLocation(200,200);
 
         Controls controls = new Controls();
